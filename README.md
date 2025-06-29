@@ -50,7 +50,7 @@ This repository provides a basic object detection pipeline based on Faster R-CNN
 
 You can switch between different detection models (Faster R-CNN, RetinaNet, etc.) via config files.
 
----
+<!-- ---
 
 ## 🚀 Quickstart
 
@@ -62,4 +62,4 @@ pip install -r requirements.txt
 python train.py --config configs/dota_baseline.yaml
 
 # Evaluate on validation/test set
-python evaluate.py --config configs/dota_baseline.yaml
+python evaluate.py --config configs/dota_baseline.yaml -->
