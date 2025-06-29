@@ -4,6 +4,7 @@
 This repository provides a baseline implementation for object detection using the DOTA dataset — a large-scale benchmark for detecting objects in high-resolution aerial images.
 It contains a diverse set of aerial images with various object categories, making it a valuable resource for researchers and practitioners in the field of computer vision.
 <br>
+<br>
 
 ![DOTA Logo](https://datasetninja.com/github/dataset-ninja/dota/main/visualizations/poster.png?width=800)
 
